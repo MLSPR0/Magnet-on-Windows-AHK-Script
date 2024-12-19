@@ -24,7 +24,7 @@ _Example:_
 * This keybind moves the focused window to the left half of the screen.
  
 ## How to Change Shortcuts:
-* Replace NumpadEnd, or any key before the (::) with your desired key from the AutoHotKey Key List.
+* Replace NumpadEnd, or any key before the (::) with your desired key from the [AutoHotKey Key List](https://www.autohotkey.com/docs/v2/KeyList.htm#general).
 * For modifiers:
   - Ctrl = ^
   - Alt = !
