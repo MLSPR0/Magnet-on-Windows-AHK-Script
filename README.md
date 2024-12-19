@@ -5,9 +5,10 @@ A script for AutoHotKey that replicates MacOS's (Magnet/Rectangle) window snappi
 This script requires AutoHotKey to function. Please download and install it before proceeding.
 
 ## Installation
-1. Place the Magnet.ahk file in your Documents directory (or any convenient location).
-2. Double-click the file to run the script.
-3. That's it! You're ready to start snapping windows.
+1. Download the latest release (in the right bar of this site)
+2. Place the Magnet.ahk file in your Documents directory (or any convenient location).
+3. Double-click the file to run the script.
+4. That's it! You're ready to start snapping windows.
 
 * **Default keybinds are listed at the bottom of this page.**
 * _**Modifying the keybinds is highly recommended (instructions provided below).**_
